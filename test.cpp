@@ -3,7 +3,7 @@ using namespace std;
 
 double f(double x,double y)
 {
-    return x/y;
+    return x+y+1;
 }
 
 int main()
